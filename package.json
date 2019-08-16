@@ -44,7 +44,7 @@
         "expressive-assertion": "~1.5.1",
         "math-statistics": "~1.2.0",
         "nan": "latest",
-        "mmm-gpio": "https://github.com/lukdoo/mmm-gpio#master",
+        "mmm-gpio": "https://github.com/ludook/mmm-gpio#master",
         "typesystem": "~5.0.0"
     },
     "devDependencies": {
